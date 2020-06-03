@@ -1,2 +1,4 @@
-#MyGitApp
-this is my first git app
+# MyGitApp
+## heading 2
+* italic text *
+** bold **
